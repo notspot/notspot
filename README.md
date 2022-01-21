@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @notspot
+- 👀 I’m interested in robotics.
